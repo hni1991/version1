@@ -1,0 +1,9 @@
+.textArea {
+    background-color: rgba(240, 248, 255, 0.555);
+    height: 94vh;
+    padding-top: 150px;
+}
+
+.textArea p {
+    font-size: 20px;
+}
