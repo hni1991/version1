@@ -1,0 +1,7 @@
+export const Dark_Gold = #845B18;
+export const LiGHT_GOLD = #E9DF85;
+export const PURPLE = #220E19;
+export const LIGHT_PURPLE = #5A1A34;
+export const VERY_LIGHT_PURPLE = #984D64;
+export const YELLOW = #E3C57D;
+export const DARK_YELLOW = #BF9028;
